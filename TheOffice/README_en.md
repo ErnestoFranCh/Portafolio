@@ -124,5 +124,3 @@ The datasets used for this process are stored in:
 > *Junior Data Analyst | Data Science Trainee | Focused on data analysis, modeling, and visualization for decision-making, applying techniques in Data Analytics, Machine Learning, and Predictive Modeling.*
 
 
-
-Would you like me to format this version with Markdown styling (headings, bold text, emojis, etc.) so it’s ready to copy and paste into GitHub directly?
