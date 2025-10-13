@@ -58,6 +58,24 @@ Incluye:
 
 ---
 
+### [4. Análisis de Ventas de Bicicletas (VentaBicisPeru)](VentasBicicletas/README_es.md)
+
+**Carpeta:** `VentaBicisPeru`
+**Descripción:**
+Proyecto de **análisis de ventas y comportamiento de clientes** de una empresa dedicada a la venta de bicicletas en Perú. Se desarrolló un **modelo de datos en Power BI** utilizando Power Query, estructurado en tablas de **dimensiones (Clientes, Productos, Tienda)** y **hechos (Ventas)**.
+Incluye:
+
+* **Dashboard interactivo en Power BI** con métricas clave de desempeño
+* **Análisis del comportamiento de clientes recurrentes**
+* **Evaluación del modelo de forecast** generado por Power BI mediante análisis estadístico en Excel
+* **Consulta SQL** y análisis complementario en **Python (Jupyter Notebook)**
+
+**Herramientas:** Power BI, Power Query, SQL, Python, Excel
+
+
+
+---
+
 ## Próximos Pasos
 
 * Agregar nuevos proyectos relacionados con **series de tiempo**, **pipelines de machine learning** y **visualización de datos avanzada**.

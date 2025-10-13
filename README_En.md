@@ -58,6 +58,22 @@ Includes:
 **Tools:** Python, PostgreSQL, Power BI, pandas, pmdarima
 
 ---
+### [4. Bicycle Sales Analysis (VentaBicisPeru)](VentaBicisPeru/README_en.md)
+
+**Folder:** `VentaBicisPeru`
+**Description:**
+Project focused on **sales and customer behavior analysis** for a bicycle sales company in Peru. A **data model in Power BI** was developed using Power Query, structured into **dimension tables (Customers, Products, Store)** and a **fact table (Sales)**.
+Includes:
+
+* **Interactive Power BI dashboard** with key performance metrics
+* **Analysis of repeat customer behavior**
+* **Evaluation of the Power BI forecast model** through statistical analysis in Excel
+* **SQL query** and complementary analysis in **Python (Jupyter Notebook)**
+
+**Tools:** Power BI, Power Query, SQL, Python, Excel
+
+
+---
 
 ## 🚀 Next Steps
 
