@@ -75,6 +75,7 @@ Includes:
 * **SQL query** and complementary analysis in **Python (Jupyter Notebook)**
 
 **Tools:** Power BI, Power Query, SQL, Python, Excel
+
 View Dashboard: [Click aqui](https://mavenshowcase.com/project/51152)
 
 
