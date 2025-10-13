@@ -30,7 +30,7 @@ All tables are stored in the following folder:
 An **interactive Power BI dashboard** was developed, allowing exploration of key sales metrics, store performance, and customer behavior.
 
 **📊 Interactive Dashboard**
-[Access the dashboard](https://ejemplo.com/tu-dashboard)
+[Access the dashboard](https://mavenshowcase.com/project/51152)
 
 During development, two main analytical questions emerged:
 

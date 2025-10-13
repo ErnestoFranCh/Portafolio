@@ -30,7 +30,7 @@ Todas las tablas se encuentran almacenadas en la carpeta:
 Se desarrolló un **dashboard interactivo en Power BI**, permitiendo explorar indicadores clave de ventas, desempeño por tienda y comportamiento de clientes.
 
  **📊 Dashboard Interactivo**
-[Acceder al dashboard](https://ejemplo.com/tu-dashboard)
+[Acceder al dashboard](https://mavenshowcase.com/project/51152)
 
 Durante su desarrollo surgieron dos preguntas analíticas principales:
 
