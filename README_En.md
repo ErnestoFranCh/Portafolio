@@ -12,7 +12,7 @@ Each project covers different stages of the analytical process — from **data c
 
 ## Current Projects
 
-### [1. Breast Cancer Prediction](Cancer%20mama)
+### [1. Breast Cancer Prediction](Cancer%20mama/Regresion_Log_CancerMama_EN.ipynb)
 
 **Folder:** `Cancer mama`
 **Description:**
@@ -27,7 +27,7 @@ Includes:
 
 ---
 
-### [2. Temperature Prediction (Weather)](Clima)
+### [2. Temperature Prediction (Weather)](Clima/README_en.md)
 
 **Folder:** `Clima`
 **Description:**
@@ -43,7 +43,7 @@ Includes:
 
 ---
 
-### [3. Sales and Customer Analysis (The Office)](TheOffice)
+### [3. Sales and Customer Analysis (The Office)](TheOffice/README_en.md)
 
 **Folder:** `The Office`
 **Description:**

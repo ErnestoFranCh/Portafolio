@@ -11,7 +11,7 @@ Cada proyecto aborda diferentes etapas del proceso analítico: desde la **obtenc
 
 ## Proyectos Actuales
 
-### [1. Predicción de Cáncer de Mama](Cancer%20mama)
+### [1. Predicción de Cáncer de Mama](Cancer%20mama/Regresion_Log_CancerMama_ES.ipynb)
 
 **Carpeta:** `Cancer mama`
 **Descripción:**
@@ -26,7 +26,7 @@ Incluye:
 
 ---
 
-### [2. Predicción de Temperatura (Clima)](Clima)
+### [2. Predicción de Temperatura (Clima)](Clima/README_es.md)
 
 **Carpeta:** `Clima`
 **Descripción:**
@@ -42,7 +42,7 @@ Incluye:
 
 ---
 
-### [3. Análisis de Ventas y Clientes (The Office)](TheOffice)
+### [3. Análisis de Ventas y Clientes (The Office)](TheOffice/README_es.md)
 
 **Carpeta:** `The Office`
 **Descripción:**
