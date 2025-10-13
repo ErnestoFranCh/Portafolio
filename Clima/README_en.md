@@ -37,15 +37,16 @@ The workflow was divided into three main stages:
 ## Project Structure
 
 ```
-TemperaturePrediction 
-┣ 01_webscraping.ipynb          # Weather data collection 
-┣ 02_data_cleaning.ipynb        # Data cleaning and transformation 
-┣ 03_model_training.ipynb       # Modeling, cross-validation, and evaluation 
-┣ 04_Predictions.ipynb          # Model tested with new input 
-┣ scaler.pkl                    # Saved scaler for preprocessing replication 
-┣ temperature_model.pkl         # Saved model for prediction replication 
-┣ cleaned_weather_data.xlsx     # Clean dataset ready for modeling 
-┗ README.md                     # Project documentation
+┣ clima-machine-learning
+  ┣ 01_webscraping.ipynb          # Weather data collection 
+  ┣ 02_data_cleaning.ipynb        # Data cleaning and transformation 
+  ┣ 03_model_training.ipynb       # Modeling, cross-validation, and evaluation 
+  ┣ 04_Predictions.ipynb          # Model tested with new input 
+  ┣ scaler.pkl                    # Saved scaler for preprocessing replication 
+  ┣ temperature_model.pkl         # Saved model for prediction replication 
+  ┣ cleaned_weather_data.xlsx     # Clean dataset ready for modeling 
+  
+┗ README_en.md                     # Project documentation
 ```
 
 

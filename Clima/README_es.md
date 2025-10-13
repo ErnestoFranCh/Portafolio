@@ -37,15 +37,17 @@ El flujo de trabajo se dividió en tres etapas principales:
 ## Estructura del proyecto
 
 ```
- PrediccionTemperatura
- ┣  01_webscraping.ipynb         # Obtención de datos climáticos
- ┣  02_data_cleaning.ipynb       # Limpieza y transformación de datos
- ┣  03_model_training.ipynb      # Modelado, validación cruzada y evaluación
- ┣  04_Predicciones.ipynb        # Se prueba el modelo con un dato nuevo.
- ┣  scaler.pkl                   # Escalador guardado para replicar el preprocesamiento
- ┣  modelo_temperatura.pkl       # Modelo guardado para replicar el preprocesamiento
- ┣  cleaned_weather_data.xlsx    # Dataset limpio listo para modelar
- ┗  README.md                    # Documentación del proyecto
+
+┣ clima-machine-learning
+  ┣  01_webscraping.ipynb         # Obtención de datos climáticos
+  ┣  02_data_cleaning.ipynb       # Limpieza y transformación de datos
+  ┣  03_model_training.ipynb      # Modelado, validación cruzada y evaluación
+  ┣  04_Predicciones.ipynb        # Se prueba el modelo con un dato nuevo.
+  ┣  scaler.pkl                   # Escalador guardado para replicar el preprocesamiento
+  ┣  modelo_temperatura.pkl       # Modelo guardado para replicar el preprocesamiento
+  ┣  cleaned_weather_data.xlsx    # Dataset limpio listo para modelar
+
+┗  README_es.md                   # Documentación del proyecto
 ```
 
 ---
