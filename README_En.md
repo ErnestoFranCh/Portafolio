@@ -43,7 +43,7 @@ Includes:
 
 ---
 
-### [3. Sales and Customer Analysis (The Office)](The%20Office)
+### [3. Sales and Customer Analysis (The Office)](TheOffice)
 
 **Folder:** `The Office`
 **Description:**

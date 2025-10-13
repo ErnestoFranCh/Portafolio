@@ -42,7 +42,7 @@ Incluye:
 
 ---
 
-### [3. Análisis de Ventas y Clientes (The Office)](The%20Office)
+### [3. Análisis de Ventas y Clientes (The Office)](TheOffice)
 
 **Carpeta:** `The Office`
 **Descripción:**
