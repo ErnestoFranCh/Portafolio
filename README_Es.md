@@ -14,6 +14,7 @@ Cada proyecto aborda diferentes etapas del proceso analítico: desde la **obtenc
 ### [1. Predicción de Cáncer de Mama](Cancer%20mama/Regresion_Log_CancerMama_ES.ipynb)
 
 **Carpeta:** `Cancer mama`
+
 **Descripción:**
 Desarrollo de un **modelo de clasificación con Machine Learning** utilizando **Regresión Logística** para predecir el diagnóstico de cáncer de mama a partir de características clínicas.
 Incluye:
@@ -29,6 +30,7 @@ Incluye:
 ### [2. Predicción de Temperatura (Clima)](Clima/README_es.md)
 
 **Carpeta:** `Clima`
+
 **Descripción:**
 Proyecto enfocado en la **obtención, limpieza y modelado de datos meteorológicos** para estimar la temperatura diaria.
 Incluye:
@@ -45,6 +47,7 @@ Incluye:
 ### [3. Análisis de Ventas y Clientes (The Office)](TheOffice/README_es.md)
 
 **Carpeta:** `The Office`
+
 **Descripción:**
 Proyecto integral de **análisis de datos empresariales**, combinando modelado, SQL y visualización.
 Incluye:
@@ -61,6 +64,7 @@ Incluye:
 ### [4. Análisis de Ventas de Bicicletas (VentaBicisPeru)](VentasBicicletas/README_es.md)
 
 **Carpeta:** `VentaBicisPeru`
+
 **Descripción:**
 Proyecto de **análisis de ventas y comportamiento de clientes** de una empresa dedicada a la venta de bicicletas en Perú. Se desarrolló un **modelo de datos en Power BI** utilizando Power Query, estructurado en tablas de **dimensiones (Clientes, Productos, Tienda)** y **hechos (Ventas)**.
 Incluye:
@@ -72,7 +76,7 @@ Incluye:
 
 **Herramientas:** Power BI, Power Query, SQL, Python, Excel
 
-
+Ver Dashboard: [Click aqui](https://mavenshowcase.com/project/51152)
 
 ---
 

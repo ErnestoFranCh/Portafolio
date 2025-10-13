@@ -15,6 +15,7 @@ Each project covers different stages of the analytical process — from **data c
 ### [1. Breast Cancer Prediction](Cancer%20mama/Regresion_Log_CancerMama_EN.ipynb)
 
 **Folder:** `Cancer mama`
+
 **Description:**
 Development of a **Machine Learning classification model** using **Logistic Regression** to predict breast cancer diagnosis based on clinical features.
 Includes:
@@ -30,6 +31,7 @@ Includes:
 ### [2. Temperature Prediction (Weather)](Clima/README_en.md)
 
 **Folder:** `Clima`
+
 **Description:**
 Project focused on **data collection, cleaning, and modeling of meteorological data** to estimate daily temperature.
 Includes:
@@ -46,6 +48,7 @@ Includes:
 ### [3. Sales and Customer Analysis (The Office)](TheOffice/README_en.md)
 
 **Folder:** `The Office`
+
 **Description:**
 Comprehensive **business data analysis** project combining data modeling, SQL analytics, and visualization.
 Includes:
@@ -61,6 +64,7 @@ Includes:
 ### [4. Bicycle Sales Analysis (VentaBicisPeru)](VentaBicisPeru/README_en.md)
 
 **Folder:** `VentaBicisPeru`
+
 **Description:**
 Project focused on **sales and customer behavior analysis** for a bicycle sales company in Peru. A **data model in Power BI** was developed using Power Query, structured into **dimension tables (Customers, Products, Store)** and a **fact table (Sales)**.
 Includes:
@@ -71,6 +75,7 @@ Includes:
 * **SQL query** and complementary analysis in **Python (Jupyter Notebook)**
 
 **Tools:** Power BI, Power Query, SQL, Python, Excel
+View Dashboard: [Click aqui](https://mavenshowcase.com/project/51152)
 
 
 ---
