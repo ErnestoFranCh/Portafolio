@@ -36,7 +36,7 @@ The analysis was conducted in a **Python (Jupyter Notebook)** environment, follo
 | **Intensive** | Highly engaged users         | 42 lessons, 16 h of study, 31 quizzes, 22 active days |
 
 📁 The analysis and modeling files can be found in:
-[`python\ModeloKmeans.ipynb`](python/ModeloKmeans.ipynb)
+[`python/KmeansModel.ipynb`](python/KmeansModel.ipynb)
 
 ---
 
