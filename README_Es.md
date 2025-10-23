@@ -80,11 +80,30 @@ Ver Dashboard: [Click aqui](https://mavenshowcase.com/project/51152)
 
 ---
 
-## Próximos Pasos
+### [5. Análisis de Actividad de Usuarios en App Educativa](ActUsuarios_KMeans/README_es.md)
 
-* Agregar nuevos proyectos relacionados con **series de tiempo**, **pipelines de machine learning** y **visualización de datos avanzada**.
-* Mejorar la documentación técnica y la interpretación de los modelos.
-* Incorporar **datasets reales** y **casos de negocio** para fortalecer la aplicación práctica de los análisis.
+**Carpeta:** `ActUsuarios_KMeans`
+
+**Descripción:**
+Proyecto enfocado en el **análisis del comportamiento mensual de usuarios** en una aplicación educativa (enero 2024).
+El objetivo fue identificar **patrones de uso**, comparar la actividad entre usuarios **Premium** y **Gratuitos**, y segmentar a los usuarios mediante un modelo de **K-Means**.
+
+Incluye:
+
+* **Limpieza y validación de datos** con Python
+* **Análisis exploratorio diario y mensual**
+* **Cálculo de rachas de uso** para medir consistencia
+* **Pruebas estadísticas (Mann–Whitney U)** para comparar grupos
+* **Modelo de segmentación K-Means** para clasificar usuarios según su nivel de actividad
+* **Dashboard interactivo en Power BI** con análisis por tipo de usuario, incluyendo métricas como:
+
+  * Promedio de quizzes por usuario
+  * Quizzes por hora en la app
+  * Lecciones completadas por hora
+
+**Herramientas:** Python, pandas, seaborn, scikit-learn, Power BI, Power Query, scipy
+
+Ver Dashboard: [Click aqui](https://mavenshowcase.com/project/52138)
 
 ---
 
