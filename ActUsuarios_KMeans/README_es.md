@@ -36,7 +36,7 @@ El análisis se llevó a cabo en un entorno **Python (Jupyter Notebook)**, donde
 | **Intensivo** | Usuarios altamente comprometidos | 42 lecciones, 16 h de estudio, 31 quizzes, 22 días activos |
 
 📁 Los archivos de análisis y modelado se encuentran en la carpeta:
-[`python\ModeloKmeans.ipynb`](python\ModeloKmeans.ipynb)
+[`python\ModeloKmeans.ipynb`](python/ModeloKmeans.ipynb)
 
 ---
 
