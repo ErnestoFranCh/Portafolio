@@ -52,28 +52,18 @@ El tablero busca analizar:
 * Métricas de retención y pérdida de clientes.
 * Preparación para un modelo de pronóstico de ventas (ARIMA).
 
-**Estado actual:**
-El dashboard se encuentra en **fase de desarrollo**.
-Actualmente se están incorporando:
+![Avance del Dashboard](assets/finish.png)
 
-* Visualizaciones más intuitivas y amigables con el usuario.
-* Análisis de ventas mensuales.
-* Modelos predictivos ARIMA para estimar ventas futuras.
-
-
-
-![Avance del Dashboard](assets/PreDash.png)
-
-
-
+Ver Dashboard: [Click aqui](https://mavenshowcase.com/project/52157)
 
 ## Métricas de Comportamiento de Clientes
 
-Algunas métricas clave que se están desarrollando en este proyecto son:
+Algunas métricas clave que se desarrollaron son:
 
 * **Clientes Recurrentes:**
-  Clientes que compran de forma constante dentro de un periodo definido.
-  *Pendiente definir el número mínimo de compras y el intervalo temporal.*
+  Se identifican como aquellos clientes que realizan compras de manera constante dentro de un periodo determinado.
+  El procedimiento utilizado para calcular este intervalo se encuentra documentado en [`SQL/AnalisisComportamientoClientes.sql`](SQL/AnalisisComportamientoClientes.sql).
+  A partir del **análisis de cuartiles**, se determinó que los clientes que **efectúan al menos tres compras en un lapso de seis meses** pueden ser clasificados como **clientes recurrentes**.
 
 * **Clientes Perdidos:**
   Clientes que han dejado de comprar después de cierto periodo sin actividad.
@@ -110,13 +100,9 @@ Los datos utilizados se encuentran en la carpeta:
   * `pmdarima` → Modelado ARIMA (pronóstico).
 
 
-
 ## Próximos Pasos
 
-1. Finalizar el dashboard en Power BI con visualizaciones dinámicas.
-2. Definir intervalos de tiempo y umbrales para clientes recurrentes y perdidos.
-3. Entrenar y evaluar el modelo **ARIMA** para pronóstico de ventas.
-4. Publicar versión final del dashboard y documentación técnica del modelo predictivo.
+1. Entrenar y evaluar el modelo **ARIMA** para pronóstico de ventas.
 
 
 ## Autor

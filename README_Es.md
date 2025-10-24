@@ -59,6 +59,8 @@ Incluye:
 
 **Herramientas:** Python, PostgreSQL, Power BI, pandas, pmdarima
 
+Ver Dashboard: [Click aqui](https://mavenshowcase.com/project/52157)
+
 ---
 
 ### [4. Análisis de Ventas de Bicicletas (VentaBicisPeru)](VentasBicicletas/README_es.md)

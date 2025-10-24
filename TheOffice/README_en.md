@@ -53,23 +53,19 @@ The dashboard is designed to analyze:
 * Retention and churn metrics.
 * Sales forecasting using ARIMA models.
 
-**Current Status:**
-The dashboard is **in development**, with ongoing improvements including:
+![Dashboard Progress](assets/finish.png)
 
-* More intuitive and user-friendly visualizations.
-* Monthly sales analysis.
-* Predictive ARIMA models for future sales estimation.
-
-![Dashboard Progress](assets/PreDash.png)
-
+View Dashboard: [Click here](https://mavenshowcase.com/project/52157)
 
 ## Customer Behavior Metrics
 
 Some of the key performance metrics being developed include:
 
 * **Recurring Customers:**
-  Customers who purchase consistently within a defined period.
-  *Pending definition of minimum purchases and time interval.*
+  These are identified as customers who make purchases consistently within a defined time period.
+  The procedure used to determine this interval is documented in [`SQL/AnalisisComportamientoClientes.sql`](SQL/AnalisisComportamientoClientes.sql).
+  Based on the **quartile analysis**, it was determined that customers who **make at least three purchases within a six-month period** can be classified as **recurring customers**.
+
 
 * **Lost Customers:**
   Customers who have stopped purchasing after a period of inactivity.
@@ -109,11 +105,8 @@ The datasets used for this process are stored in:
 
 ## Next Steps
 
-1. Finalize the Power BI dashboard with dynamic visualizations.
-2. Define time intervals and thresholds for recurring and lost customers.
-3. Train and evaluate the **ARIMA** sales forecasting model.
-4. Publish the final dashboard and technical documentation of the predictive model.
 
+1. Train and evaluate the **ARIMA** sales forecasting model.
 
 
 ## Author
