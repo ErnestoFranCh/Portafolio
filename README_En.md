@@ -107,6 +107,7 @@ Includes:
 View Dashboard: [Click here](https://mavenshowcase.com/project/52138)
 
 ---
+# [Projects Oracle (click)](https://github.com/ErnestoFranCh/CienciaDatos_Oracle_Challenge/blob/main/README_EN.md)
 
 ## 👨‍💻 Author
 
